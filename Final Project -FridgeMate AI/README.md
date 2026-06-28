@@ -12,13 +12,13 @@ Food Waste Analytics: Computes household stats, financial savings, landfill CO2 
 
 Live link
 
-https://ayakovishy.github.io/fridgemate-ai/
+https://github.com/ayakvishy98/fridgemate-AI/tree/main/Final%20Project%20-FridgeMate%20AI
 
 How to use it
 
 1. Scan or Add Foods: Open the app and log items using either the AI Scanner (pointing your webcam at an item like an apple, banana, or cup) or type them manually in the **Quick Add** dashboard form.
-2. Select & Match Recipes: Go to the AI Recipes tab, tick the ingredients you want to use up, and select one of the suggested dishes to view step-by-step instructions. Click “Cook Recipe” to prepare it and automatically deduct the ingredients from your fridge inventory.
-3. Analyze & Shop: Check the “Waste Analytics” tab to review your environmental score, and check the “Shopping List” to restock any automatically replenished spoiled foods.
+2. Select & Match Recipes: Go to the AI Recipes tab, tick the ingredients you want to use up, and select one of the suggested dishes to view step-by-step instructions. Click â€œCook Recipeâ€ to prepare it and automatically deduct the ingredients from your fridge inventory.
+3. Analyze & Shop: Check the â€œWaste Analyticsâ€ tab to review your environmental score, and check the â€œShopping Listâ€ to restock any automatically replenished spoiled foods.
 
 Known limitations
 
